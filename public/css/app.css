@@ -1,0 +1,19 @@
+html,body{
+    padding: 0;
+    margin: 0;
+    min-height: 100%;
+}
+
+.page-404, .page-404 table{
+    height: 100vh;
+    width: 100%;
+    text-align: center;
+}
+
+.login{
+    padding-top: 30px;
+}
+
+.logout-link{
+    color: #fff !important;
+}
